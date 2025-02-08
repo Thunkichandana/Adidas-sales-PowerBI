@@ -10,3 +10,14 @@ Customer Preference Analysis: Analyze units sold by product category and gender 
 Sales Method Effectiveness: Compare different sales channels to determine the most efficient methods for revenue generation.
 Regional Performance: Investigate sales performance across various regions, states, and cities to identify potential growth opportunities and areas for targeted marketing strategies.
 This project will leverage SQL and data visualization tools to extract, clean, and analyze the Adidas sales dataset, enabling data-driven recommendations for business improvements.
+
+Insights of data: 
+The Adidas sales analysis highlights key trends in overall performance, retailer profitability, and customer preferences. It reveals seasonal sales patterns, top-selling product categories, and effective sales channels, helping optimize marketing and inventory strategies. Regional insights further identify growth opportunities for targeted expansion. These findings enable Adidas to make data-driven decisions, improve profitability, and enhance its competitive edge.
+
+
+
+
+
+
+
+
