@@ -1,5 +1,5 @@
 # Adidas-sales-PowerBI
-Project Objective: Adidas Sales Analysis
+**Project Objective** : Adidas Sales Analysis
 The objective of this project is to analyze Adidas' sales performance using the provided dataset and uncover key insights related to sales trends, customer behavior, and business performance. The analysis aims to help Adidas optimize its sales strategies and improve decision-making by addressing the following key aspects:
 
 Overall Business Performance: Track total sales, profit, average price per unit, and total units sold to assess Adidas' overall market performance.
