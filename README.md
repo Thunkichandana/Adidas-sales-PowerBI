@@ -14,10 +14,27 @@ The objective of this project is to analyze Adidas' sales performance using the 
 8. City-Level Profitability : Which cities deliver the highest profit, and how can their success be replicated in lower-performing locations?
 
 **Insights of data**: 
-The Adidas sales analysis highlights key trends in overall performance, retailer profitability, and customer preferences. It reveals seasonal sales patterns, top-selling product categories, and effective sales channels, helping optimize marketing and inventory strategies. Regional insights further identify growth opportunities for targeted expansion. These findings enable Adidas to make data-driven decisions, improve profitability, and enhance its competitive edge.
+* Total sales  : $120 M , Total profit : $47M ,Total units sold : $2.5M, Avg selling price : $48
+* West gear contribute highest profit (25%) and least contributer is walmart with (8%)
+* Sales patterns show a strong seasonal peak in Q3, with July–August consistently outperforming other months.
+  Daily trends reveal that mid-month dates (especially the 5th, 10th, 17th, and 24th) drive most sales, indicating salary-cycle or promotion-based buying behaviour.
+  Year-over-year comparison shows 2020 had higher volatility with irregular spikes, while 2021 demonstrates more stable and predictable growth.
+* In Men category highest units sold next to women
+* Mens street footwear has highest sales (23%) and should follow online channel for inventory and market.
+* Online is the most effective sales method, because most major retailers (Foot Locker, Sports Direct, Kohl’s, Amazon) achieve
+  their highest sales through the online channel, even though West Gear performs best in-store.
+* The West region leads sales performance, while the South lags behind, presenting a clear opportunity for targeted improvement strategies.
+* NewYork deliver high profit over the margin (24%) and least Portland has least profit with (~18%).
 
+**Final Conclusion**: 
 
-
+* The company is performing well overall with $120M sales, $47M profit, and 2.5M units sold.
+* West Gear is the top profit contributor (25%), while Walmart performs the lowest (8%).
+* Sales peak in Q3, especially in July–August, showing strong seasonal demand.
+* Men’s products sell the most units, and Men’s Street Footwear is the best-selling category.
+* Online channel is the most effective sales method for most retailers.
+* The West region performs best, while the South region needs improvement.
+* New York generates the highest profit, whereas Portland shows the weakest performance.
 
 
 
